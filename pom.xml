@@ -14,7 +14,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.19.RELEASE</version>
+			<version>5.3.18</version>
 		</dependency>
 	<!-- 2javax.servlet-api 解决页面报错-->
 		<dependency>
